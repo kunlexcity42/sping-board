@@ -1,1 +1,2 @@
-# sping-board
+What I Built
+I set out to build a fun, interactive web application called the "On-demand Coloring Page Creator." The app allows a user to type in any theme (like "dinosaurs" or "space adventure"), and using AI, it generates a unique, black-and-white, line-art coloring page ready to be printed or saved.
